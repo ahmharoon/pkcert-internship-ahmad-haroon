@@ -57,7 +57,7 @@
 - [x] Written explanation of train/test split, overfitting/underfitting, bias-variance tradeoff — markdown cells in Parts A & B of the notebook
 - [x] Screenshot of the Python environment (sklearn/pandas/numpy/matplotlib) — `screenshots/1_python_environment.png`
 - [x] Screenshot of the trained Linear Regression model's evaluation metrics — `screenshots/2_linear_regression_evaluation_metrics.png`
-- [ ] GitHub repository link with notebook and README pushed
+- [x] GitHub repository link with notebook and README pushed — https://github.com/ahmharoon/pkcert-internship-ahmad-haroon/tree/Task-07/Task_07
 
 ## How to Run
 ```bash
