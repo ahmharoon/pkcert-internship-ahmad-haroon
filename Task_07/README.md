@@ -19,6 +19,7 @@
 |---|---|
 | `PKCERT_Task_07_ML_Foundations.ipynb` | Main deliverable — all four parts + bonus, fully executed with outputs and plots in place |
 | `visualizations/` | The 3 charts from the notebook, saved as PNGs |
+| `screenshots/` | The 2 required screenshots — Python environment check and Linear Regression evaluation metrics |
 
 | Part | What it covers |
 |---|---|
@@ -54,8 +55,8 @@
 ## Deliverables checklist
 - [x] Jupyter notebook with all code, outputs, and plots — `PKCERT_Task_07_ML_Foundations.ipynb`
 - [x] Written explanation of train/test split, overfitting/underfitting, bias-variance tradeoff — markdown cells in Parts A & B of the notebook
-- [ ] Screenshot of the Python environment (sklearn/pandas/numpy/matplotlib) — run the notebook's first code cell (environment check) and screenshot the output
-- [ ] Screenshot of the trained Linear Regression model's evaluation metrics — screenshot the Part C.5 output cell (MSE/RMSE/R²)
+- [x] Screenshot of the Python environment (sklearn/pandas/numpy/matplotlib) — `screenshots/1_python_environment.png`
+- [x] Screenshot of the trained Linear Regression model's evaluation metrics — `screenshots/2_linear_regression_evaluation_metrics.png`
 - [ ] GitHub repository link with notebook and README pushed
 
 ## How to Run
