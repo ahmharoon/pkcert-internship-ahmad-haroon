@@ -1,0 +1,6 @@
+city,country,stadium,capacity,average_temperature,hotel_index,transport_score,tourism_score,safety_score,airport_code,timezone,fan_zone
+New York,USA,Main Stadium,44251,25,80,85,90,88,XXX,UTC-5,True
+Toronto,Canada,Main Stadium,77056,25,80,85,90,88,XXX,UTC-5,True
+Mexico City,Mexico,Main Stadium,65971,25,80,85,90,88,XXX,UTC-5,True
+Dallas,USA,Main Stadium,46028,25,80,85,90,88,XXX,UTC-5,True
+Los Angeles,USA,Main Stadium,66210,25,80,85,90,88,XXX,UTC-5,True

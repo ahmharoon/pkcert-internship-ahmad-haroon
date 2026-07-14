@@ -1,0 +1,101 @@
+post_id,platform,username,user_country,language,post_datetime,match_id,team_mentioned,player_mentioned,stakeholder_id,topic,sentiment,sentiment_score,emotion,likes,comments,shares,views,hashtags,verified,engagement_rate,device,source
+1,X,user1,Mexico,English,2026-06-11 01:00:00,4,England,Player_49,15,Travel,Negative,-0.24,Joy,2211,96,249,50853,#WorldCup2026,True,9.04,Android,Organic
+2,YouTube,user2,Brazil,English,2026-06-11 02:00:00,15,France,Player_47,8,Sponsorship,Positive,0.8,Joy,6396,22,13,115128,#WorldCup2026,True,9.45,Android,Organic
+3,Instagram,user3,England,English,2026-06-11 03:00:00,1,USA,Player_15,15,Travel,Negative,-0.53,Joy,6255,693,112,162630,#WorldCup2026,False,9.57,Android,Organic
+4,YouTube,user4,Brazil,English,2026-06-11 04:00:00,6,Mexico,Player_47,10,Match Performance,Negative,-0.33,Excitement,362,996,364,6516,#WorldCup2026,False,5.57,Android,Organic
+5,Facebook,user5,England,English,2026-06-11 05:00:00,17,England,Player_38,2,Travel,Positive,0.49,Anger,3120,424,340,43680,#WorldCup2026,True,4.3,Android,Organic
+6,TikTok,user6,Brazil,English,2026-06-11 06:00:00,6,USA,Player_26,12,Travel,Negative,-0.94,Joy,6149,315,360,43043,#WorldCup2026,False,6.82,Android,Organic
+7,Instagram,user7,Brazil,English,2026-06-11 07:00:00,7,USA,Player_36,8,Travel,Negative,-0.31,Excitement,2772,361,235,58212,#WorldCup2026,False,6.93,Android,Organic
+8,X,user8,England,English,2026-06-11 08:00:00,17,Spain,Player_9,17,Sponsorship,Positive,-0.15,Joy,9986,492,445,279608,#WorldCup2026,False,6.13,Android,Organic
+9,TikTok,user9,England,English,2026-06-11 09:00:00,12,England,Player_23,1,Sponsorship,Negative,0.25,Excitement,3284,339,234,68964,#WorldCup2026,True,8.24,Android,Organic
+10,YouTube,user10,USA,English,2026-06-11 10:00:00,3,Spain,Player_36,9,Match Performance,Negative,-0.86,Joy,2913,463,7,64086,#WorldCup2026,False,3.25,Android,Organic
+11,YouTube,user11,USA,English,2026-06-11 11:00:00,12,France,Player_5,6,Fan Experience,Neutral,0.05,Joy,1803,672,139,54090,#WorldCup2026,False,5.09,Android,Organic
+12,TikTok,user12,Brazil,English,2026-06-11 12:00:00,1,France,Player_25,11,Travel,Positive,-0.48,Anger,5285,921,373,105700,#WorldCup2026,True,9.69,Android,Organic
+13,Instagram,user13,Brazil,English,2026-06-11 13:00:00,13,Argentina,Player_3,6,Travel,Negative,0.01,Anger,7082,557,426,35410,#WorldCup2026,True,9.79,Android,Organic
+14,Instagram,user14,Brazil,English,2026-06-11 14:00:00,13,Mexico,Player_37,11,Travel,Positive,0.47,Joy,8473,991,108,160987,#WorldCup2026,True,3.76,Android,Organic
+15,Facebook,user15,USA,English,2026-06-11 15:00:00,14,USA,Player_17,5,Match Performance,Negative,0.76,Joy,1262,604,419,17668,#WorldCup2026,True,9.66,Android,Organic
+16,Instagram,user16,Brazil,English,2026-06-11 16:00:00,13,Argentina,Player_23,4,Fan Experience,Negative,0.35,Anger,9353,605,99,177707,#WorldCup2026,False,1.94,Android,Organic
+17,YouTube,user17,England,English,2026-06-11 17:00:00,1,France,Player_40,13,Ticketing,Positive,-0.69,Anger,6400,830,288,89600,#WorldCup2026,True,4.05,Android,Organic
+18,X,user18,England,English,2026-06-11 18:00:00,18,France,Player_44,18,Travel,Negative,-0.53,Excitement,3500,41,43,45500,#WorldCup2026,True,2.53,Android,Organic
+19,Facebook,user19,Mexico,English,2026-06-11 19:00:00,20,USA,Player_17,12,Ticketing,Neutral,-0.77,Joy,8828,888,483,97108,#WorldCup2026,False,2.22,Android,Organic
+20,X,user20,Mexico,English,2026-06-11 20:00:00,2,England,Player_5,13,Fan Experience,Positive,-0.32,Excitement,9040,601,400,262160,#WorldCup2026,False,1.69,Android,Organic
+21,YouTube,user21,Brazil,English,2026-06-11 21:00:00,9,France,Player_19,19,Sponsorship,Positive,-0.08,Anger,9025,110,402,108300,#WorldCup2026,True,8.45,Android,Organic
+22,X,user22,Brazil,English,2026-06-11 22:00:00,14,Brazil,Player_3,7,Fan Experience,Negative,-0.16,Joy,212,461,85,5088,#WorldCup2026,True,2.43,Android,Organic
+23,TikTok,user23,Mexico,English,2026-06-11 23:00:00,18,France,Player_46,16,Ticketing,Positive,-0.58,Anger,1694,40,13,30492,#WorldCup2026,True,8.08,Android,Organic
+24,YouTube,user24,Mexico,English,2026-06-12 00:00:00,15,England,Player_21,13,Match Performance,Positive,0.83,Excitement,4852,993,233,135856,#WorldCup2026,True,3.25,Android,Organic
+25,TikTok,user25,Mexico,English,2026-06-12 01:00:00,9,Argentina,Player_35,7,Ticketing,Positive,-0.51,Joy,8905,839,143,240435,#WorldCup2026,True,9.85,Android,Organic
+26,YouTube,user26,Mexico,English,2026-06-12 02:00:00,8,England,Player_20,2,Ticketing,Positive,-0.37,Excitement,7348,914,471,51436,#WorldCup2026,False,3.21,Android,Organic
+27,YouTube,user27,Brazil,English,2026-06-12 03:00:00,8,Argentina,Player_2,8,Travel,Positive,-0.46,Joy,1663,746,38,36586,#WorldCup2026,True,6.72,Android,Organic
+28,Facebook,user28,England,English,2026-06-12 04:00:00,16,Spain,Player_10,4,Sponsorship,Neutral,-0.85,Excitement,4774,177,91,138446,#WorldCup2026,True,9.86,Android,Organic
+29,X,user29,Mexico,English,2026-06-12 05:00:00,5,Argentina,Player_10,18,Match Performance,Neutral,0.64,Excitement,5249,823,344,73486,#WorldCup2026,True,2.6,Android,Organic
+30,Instagram,user30,Brazil,English,2026-06-12 06:00:00,8,France,Player_50,3,Travel,Neutral,0.1,Excitement,7098,449,435,156156,#WorldCup2026,False,1.1,Android,Organic
+31,Facebook,user31,England,English,2026-06-12 07:00:00,1,Spain,Player_42,14,Sponsorship,Positive,-0.88,Anger,5558,593,70,55580,#WorldCup2026,True,2.25,Android,Organic
+32,YouTube,user32,England,English,2026-06-12 08:00:00,6,USA,Player_6,8,Travel,Positive,-0.64,Anger,4546,512,457,77282,#WorldCup2026,False,9.37,Android,Organic
+33,Facebook,user33,England,English,2026-06-12 09:00:00,16,Argentina,Player_46,14,Ticketing,Negative,0.22,Excitement,3708,939,334,44496,#WorldCup2026,False,9.75,Android,Organic
+34,X,user34,Mexico,English,2026-06-12 10:00:00,6,USA,Player_50,7,Ticketing,Neutral,0.39,Excitement,3605,380,84,21630,#WorldCup2026,False,6.35,Android,Organic
+35,YouTube,user35,England,English,2026-06-12 11:00:00,6,Argentina,Player_17,14,Fan Experience,Negative,0.44,Joy,2029,506,348,48696,#WorldCup2026,False,7.45,Android,Organic
+36,YouTube,user36,USA,English,2026-06-12 12:00:00,18,Mexico,Player_3,17,Match Performance,Neutral,0.26,Anger,5711,754,467,97087,#WorldCup2026,True,9.63,Android,Organic
+37,YouTube,user37,Brazil,English,2026-06-12 13:00:00,15,Spain,Player_16,13,Travel,Neutral,-0.67,Anger,2289,448,64,66381,#WorldCup2026,False,9.63,Android,Organic
+38,YouTube,user38,England,English,2026-06-12 14:00:00,4,Mexico,Player_19,9,Fan Experience,Neutral,0.5,Joy,1962,982,97,35316,#WorldCup2026,False,6.21,Android,Organic
+39,YouTube,user39,USA,English,2026-06-12 15:00:00,9,Argentina,Player_12,10,Fan Experience,Negative,-0.6,Anger,514,599,387,12850,#WorldCup2026,False,8.49,Android,Organic
+40,Instagram,user40,Mexico,English,2026-06-12 16:00:00,16,England,Player_8,7,Sponsorship,Neutral,-0.59,Joy,7323,925,413,219690,#WorldCup2026,True,2.06,Android,Organic
+41,Facebook,user41,USA,English,2026-06-12 17:00:00,3,USA,Player_24,19,Ticketing,Neutral,0.01,Anger,226,776,270,4972,#WorldCup2026,False,1.01,Android,Organic
+42,TikTok,user42,Mexico,English,2026-06-12 18:00:00,10,USA,Player_26,11,Sponsorship,Neutral,-0.77,Anger,7256,391,104,195912,#WorldCup2026,True,9.95,Android,Organic
+43,YouTube,user43,USA,English,2026-06-12 19:00:00,15,USA,Player_34,14,Ticketing,Negative,-0.66,Excitement,9810,684,271,274680,#WorldCup2026,True,4.23,Android,Organic
+44,TikTok,user44,England,English,2026-06-12 20:00:00,13,France,Player_40,19,Match Performance,Neutral,0.98,Joy,67,655,495,1742,#WorldCup2026,False,6.67,Android,Organic
+45,Instagram,user45,England,English,2026-06-12 21:00:00,9,Spain,Player_12,3,Sponsorship,Positive,-0.3,Anger,6678,817,362,186984,#WorldCup2026,False,8.87,Android,Organic
+46,Instagram,user46,England,English,2026-06-12 22:00:00,9,England,Player_11,15,Sponsorship,Positive,-0.46,Joy,8926,762,302,124964,#WorldCup2026,False,1.63,Android,Organic
+47,TikTok,user47,Brazil,English,2026-06-12 23:00:00,6,USA,Player_46,6,Match Performance,Neutral,0.27,Anger,1107,619,155,28782,#WorldCup2026,True,5.75,Android,Organic
+48,Facebook,user48,Brazil,English,2026-06-13 00:00:00,3,Mexico,Player_34,12,Travel,Negative,0.12,Joy,3896,172,152,58440,#WorldCup2026,False,4.2,Android,Organic
+49,YouTube,user49,England,English,2026-06-13 01:00:00,6,England,Player_17,20,Ticketing,Negative,-0.56,Excitement,3812,723,125,64804,#WorldCup2026,True,8.67,Android,Organic
+50,TikTok,user50,USA,English,2026-06-13 02:00:00,9,Argentina,Player_5,6,Sponsorship,Neutral,0.16,Excitement,6606,151,310,99090,#WorldCup2026,False,5.13,Android,Organic
+51,Instagram,user51,England,English,2026-06-13 03:00:00,12,France,Player_49,13,Fan Experience,Positive,0.44,Excitement,2672,697,156,24048,#WorldCup2026,True,1.96,Android,Organic
+52,TikTok,user52,Brazil,English,2026-06-13 04:00:00,6,Brazil,Player_4,20,Match Performance,Positive,0.37,Anger,6514,720,270,97710,#WorldCup2026,False,4.08,Android,Organic
+53,YouTube,user53,USA,English,2026-06-13 05:00:00,4,Argentina,Player_26,8,Travel,Neutral,-0.24,Joy,4508,996,118,36064,#WorldCup2026,True,8.38,Android,Organic
+54,YouTube,user54,England,English,2026-06-13 06:00:00,7,England,Player_46,9,Ticketing,Neutral,0.19,Joy,7588,80,23,166936,#WorldCup2026,True,8.18,Android,Organic
+55,TikTok,user55,Mexico,English,2026-06-13 07:00:00,7,England,Player_11,5,Match Performance,Positive,-0.23,Excitement,7880,555,29,118200,#WorldCup2026,False,3.29,Android,Organic
+56,Facebook,user56,Brazil,English,2026-06-13 08:00:00,2,USA,Player_4,17,Fan Experience,Positive,0.87,Joy,1312,442,46,24928,#WorldCup2026,True,1.25,Android,Organic
+57,Facebook,user57,USA,English,2026-06-13 09:00:00,15,England,Player_22,9,Ticketing,Negative,0.27,Joy,2145,61,301,60060,#WorldCup2026,True,4.15,Android,Organic
+58,YouTube,user58,Brazil,English,2026-06-13 10:00:00,12,USA,Player_27,18,Fan Experience,Negative,0.76,Anger,9928,941,339,268056,#WorldCup2026,True,7.42,Android,Organic
+59,Instagram,user59,Brazil,English,2026-06-13 11:00:00,5,Brazil,Player_14,14,Match Performance,Positive,0.27,Excitement,1194,480,256,15522,#WorldCup2026,False,1.89,Android,Organic
+60,Instagram,user60,Brazil,English,2026-06-13 12:00:00,15,Mexico,Player_9,13,Travel,Positive,0.47,Anger,5133,92,128,30798,#WorldCup2026,False,1.77,Android,Organic
+61,X,user61,Mexico,English,2026-06-13 13:00:00,11,Mexico,Player_9,9,Travel,Positive,0.71,Anger,570,96,217,9690,#WorldCup2026,True,5.52,Android,Organic
+62,Facebook,user62,England,English,2026-06-13 14:00:00,19,England,Player_7,5,Travel,Negative,0.98,Excitement,3375,864,427,50625,#WorldCup2026,True,9.07,Android,Organic
+63,Instagram,user63,USA,English,2026-06-13 15:00:00,12,England,Player_34,11,Match Performance,Neutral,-0.31,Excitement,4783,66,22,133924,#WorldCup2026,False,8.33,Android,Organic
+64,TikTok,user64,Mexico,English,2026-06-13 16:00:00,11,France,Player_18,11,Sponsorship,Negative,-0.98,Joy,8753,152,162,131295,#WorldCup2026,False,8.06,Android,Organic
+65,TikTok,user65,Mexico,English,2026-06-13 17:00:00,16,England,Player_24,13,Match Performance,Negative,0.6,Joy,9399,49,268,65793,#WorldCup2026,False,6.18,Android,Organic
+66,Instagram,user66,Mexico,English,2026-06-13 18:00:00,12,Spain,Player_42,12,Travel,Neutral,-0.07,Anger,4137,544,259,124110,#WorldCup2026,True,1.26,Android,Organic
+67,Instagram,user67,USA,English,2026-06-13 19:00:00,4,Argentina,Player_50,14,Sponsorship,Positive,0.62,Excitement,4108,697,136,106808,#WorldCup2026,True,2.84,Android,Organic
+68,YouTube,user68,Brazil,English,2026-06-13 20:00:00,3,Spain,Player_14,6,Sponsorship,Neutral,-0.96,Anger,1104,921,433,27600,#WorldCup2026,False,7.39,Android,Organic
+69,Instagram,user69,England,English,2026-06-13 21:00:00,8,England,Player_29,12,Sponsorship,Positive,0.6,Excitement,4658,74,416,55896,#WorldCup2026,False,4.67,Android,Organic
+70,YouTube,user70,England,English,2026-06-13 22:00:00,17,England,Player_5,13,Sponsorship,Negative,0.59,Excitement,145,435,20,4060,#WorldCup2026,False,8.66,Android,Organic
+71,Instagram,user71,Mexico,English,2026-06-13 23:00:00,1,USA,Player_8,10,Sponsorship,Negative,-0.37,Excitement,7521,660,292,37605,#WorldCup2026,False,5.73,Android,Organic
+72,TikTok,user72,Mexico,English,2026-06-14 00:00:00,15,France,Player_9,17,Travel,Negative,-0.72,Joy,8890,258,325,186690,#WorldCup2026,True,9.95,Android,Organic
+73,Facebook,user73,England,English,2026-06-14 01:00:00,13,France,Player_43,1,Match Performance,Positive,0.69,Anger,9281,275,237,55686,#WorldCup2026,False,8.16,Android,Organic
+74,TikTok,user74,Mexico,English,2026-06-14 02:00:00,13,England,Player_8,16,Ticketing,Positive,-0.17,Joy,6115,176,416,152875,#WorldCup2026,False,4.31,Android,Organic
+75,Facebook,user75,England,English,2026-06-14 03:00:00,9,USA,Player_19,14,Ticketing,Neutral,-0.33,Anger,2092,220,366,48116,#WorldCup2026,False,9.54,Android,Organic
+76,TikTok,user76,Brazil,English,2026-06-14 04:00:00,3,Argentina,Player_14,5,Fan Experience,Negative,-0.95,Anger,6594,159,245,178038,#WorldCup2026,True,4.59,Android,Organic
+77,X,user77,England,English,2026-06-14 05:00:00,20,Brazil,Player_36,7,Sponsorship,Neutral,-0.31,Excitement,3080,992,474,15400,#WorldCup2026,True,7.61,Android,Organic
+78,X,user78,Mexico,English,2026-06-14 06:00:00,9,Argentina,Player_31,2,Fan Experience,Negative,0.29,Anger,6885,126,342,179010,#WorldCup2026,False,3.65,Android,Organic
+79,TikTok,user79,Brazil,English,2026-06-14 07:00:00,20,Spain,Player_31,4,Fan Experience,Neutral,0.23,Excitement,8330,206,85,166600,#WorldCup2026,False,4.75,Android,Organic
+80,TikTok,user80,USA,English,2026-06-14 08:00:00,20,France,Player_32,4,Match Performance,Negative,0.31,Excitement,8803,273,28,123242,#WorldCup2026,False,3.7,Android,Organic
+81,YouTube,user81,Mexico,English,2026-06-14 09:00:00,9,Mexico,Player_16,14,Fan Experience,Positive,-0.49,Anger,1660,574,322,19920,#WorldCup2026,True,5.8,Android,Organic
+82,Instagram,user82,England,English,2026-06-14 10:00:00,9,France,Player_31,10,Ticketing,Neutral,-0.57,Anger,9987,613,240,209727,#WorldCup2026,True,4.05,Android,Organic
+83,Instagram,user83,England,English,2026-06-14 11:00:00,18,Argentina,Player_4,17,Ticketing,Negative,0.38,Excitement,9934,779,415,288086,#WorldCup2026,True,3.84,Android,Organic
+84,Facebook,user84,Brazil,English,2026-06-14 12:00:00,5,Argentina,Player_45,9,Fan Experience,Positive,0.27,Excitement,8099,51,288,161980,#WorldCup2026,True,7.16,Android,Organic
+85,Instagram,user85,Mexico,English,2026-06-14 13:00:00,14,France,Player_1,1,Ticketing,Negative,-0.56,Excitement,3716,229,143,85468,#WorldCup2026,False,3.42,Android,Organic
+86,X,user86,Brazil,English,2026-06-14 14:00:00,11,France,Player_9,4,Ticketing,Positive,0.36,Joy,8503,355,39,144551,#WorldCup2026,True,7.52,Android,Organic
+87,Facebook,user87,USA,English,2026-06-14 15:00:00,9,USA,Player_4,12,Match Performance,Positive,-0.72,Anger,1700,380,478,23800,#WorldCup2026,True,1.84,Android,Organic
+88,X,user88,Mexico,English,2026-06-14 16:00:00,4,France,Player_42,5,Sponsorship,Neutral,-0.19,Excitement,5397,590,317,70161,#WorldCup2026,False,6.08,Android,Organic
+89,Facebook,user89,USA,English,2026-06-14 17:00:00,10,USA,Player_9,2,Sponsorship,Negative,-0.78,Joy,8787,220,459,149379,#WorldCup2026,False,3.47,Android,Organic
+90,YouTube,user90,Mexico,English,2026-06-14 18:00:00,17,France,Player_31,5,Travel,Negative,-0.79,Anger,337,70,335,4381,#WorldCup2026,False,5.9,Android,Organic
+91,YouTube,user91,Brazil,English,2026-06-14 19:00:00,20,France,Player_29,5,Fan Experience,Positive,0.83,Joy,8322,692,450,216372,#WorldCup2026,True,5.36,Android,Organic
+92,Facebook,user92,USA,English,2026-06-14 20:00:00,5,Spain,Player_25,15,Travel,Positive,0.95,Joy,5506,276,151,88096,#WorldCup2026,True,5.84,Android,Organic
+93,Instagram,user93,England,English,2026-06-14 21:00:00,18,Brazil,Player_30,1,Travel,Negative,0.36,Anger,168,955,189,4200,#WorldCup2026,False,4.66,Android,Organic
+94,X,user94,England,English,2026-06-14 22:00:00,2,Mexico,Player_46,1,Match Performance,Positive,0.17,Excitement,7579,520,390,45474,#WorldCup2026,False,5.96,Android,Organic
+95,Facebook,user95,England,English,2026-06-14 23:00:00,8,Spain,Player_40,8,Match Performance,Negative,0.9,Joy,9319,119,397,232975,#WorldCup2026,True,9.25,Android,Organic
+96,Facebook,user96,Mexico,English,2026-06-15 00:00:00,2,USA,Player_28,14,Travel,Neutral,-0.41,Anger,5149,451,408,92682,#WorldCup2026,True,6.71,Android,Organic
+97,X,user97,Mexico,English,2026-06-15 01:00:00,4,USA,Player_12,18,Travel,Neutral,0.51,Joy,8513,998,298,76617,#WorldCup2026,True,5.32,Android,Organic
+98,Instagram,user98,England,English,2026-06-15 02:00:00,8,Brazil,Player_16,11,Ticketing,Negative,-0.51,Excitement,3437,472,380,58429,#WorldCup2026,False,4.33,Android,Organic
+99,TikTok,user99,England,English,2026-06-15 03:00:00,18,Brazil,Player_37,16,Ticketing,Positive,-0.7,Anger,3184,424,55,57312,#WorldCup2026,True,6.87,Android,Organic
+100,TikTok,user100,Mexico,English,2026-06-15 04:00:00,5,Argentina,Player_34,4,Ticketing,Positive,-0.07,Excitement,3007,721,376,57133,#WorldCup2026,True,5.84,Android,Organic

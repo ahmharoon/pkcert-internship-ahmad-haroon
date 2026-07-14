@@ -1,0 +1,15 @@
+{
+  "cohort": "PKCERT-2026",
+  "students": [
+    {
+      "name": "Ahmad",
+      "age": 21,
+      "major": "AI"
+    },
+    {
+      "name": "Fatima",
+      "age": 22,
+      "major": "Data Science"
+    }
+  ]
+}
